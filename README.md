@@ -8,5 +8,10 @@ Yet another self-compiled kernel for Redmi 9T juice series, integrated with [Ker
 
 Based on [Sunrise Kernel](https://github.com/ShelbyHell/sunrise_kernel_juice) by ShelbyHell.
 
+## Downloads
+You could download prebuilt kernel from [releases](https://github.com/pokon548/kernelsu-xiaomi-juice/releases)
+
+All kernels were packaged in AnyKernel3.
+
 ## Compatibility
 Tested on Redmi Note 9 4G (China) with AOSPA topaz. It may also works for lime / chime device.
