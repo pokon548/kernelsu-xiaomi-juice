@@ -13,5 +13,7 @@ You could download prebuilt kernel from [releases](https://github.com/pokon548/k
 
 All kernels were packaged in AnyKernel3.
 
+Notice: **FLASH DTBO.IMG** provided with kernels before you complain about bootloop issue!
+
 ## Compatibility
 Tested on Redmi Note 9 4G (China) with AOSPA topaz. It may also works for lime / chime device.
